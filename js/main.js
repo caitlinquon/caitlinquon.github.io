@@ -97,7 +97,7 @@ $(document).ready(function() {
             { src: 'img/slider/beach.jpg' },
             { src: 'img/slider/studying.jpg' },
             { src: 'img/slider/leo.jpg' },
-			{ src: 'img/slider/tugger.jpg' }
+			{ src: 'img/slider/leo.jpg' }
         ],
     overlay: true
 });
